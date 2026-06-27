@@ -1,0 +1,29 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor and app caches
+.vscode/
+.idea/
+.history/
+.cache/
+node_modules/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+~$*
+
+# Yank Note/local workspace state that should not be synchronized
+.yank-note/cache/
+.yank-note/temp/
+
+# Keep notes and assets tracked.
+!notes/
+!assets/
+!assets/images/
+!assets/files/
+!templates/
