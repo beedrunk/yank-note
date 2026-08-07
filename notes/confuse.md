@@ -32,7 +32,7 @@
 * 7.26周测第九题 (p401)  参数方程的二重积分 
 ![Img](./FILES/confuse.md/img-20260728233500.png)
 ## 定积分的几何应用
-### 旋转体体积(p268)
+### 旋转体体积(p268)  
 ![Img](./FILES/confuse.md/img-20260807215449.png)
 ![Img](./FILES/confuse.md/img-20260807215504.png)
 
