@@ -67,4 +67,4 @@ appear 看来 好像 出现 &ensp; appearance 外表 &ensp; appeal 呼吁，请�
 temper 性情 脾气 特征 调和 &ensp; temperament 性格 性情
 generous 慷慨的 大方的 &ensp; company 公司 陪伴 宾客 companions 同伴 陪伴
 taught 教学，教书 teach的过去式
-remain 保持不变，继续存在，剩下 &ensp; remains 留下 保持 仍然是
+remain 保持不变，继续存在，剩下 &ensp; remains 留下 保持 仍然是    
